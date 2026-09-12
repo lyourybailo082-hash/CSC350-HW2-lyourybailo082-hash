@@ -46,7 +46,7 @@ Please respect other visitors and follow Campus Safety rules.
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+Verified on GitHub by Oury Ly.
 
 ## Commit Evidence
 
