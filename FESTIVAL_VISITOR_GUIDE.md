@@ -53,7 +53,7 @@ Verified on GitHub by Oury Ly.
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
 | Personalized guide | 5ffc8e2 | `docs: personalize festival visitor guide` |
-| Visitor access information | [ID] | `docs: add visitor access information` |
+| Visitor access information | 0372618 | `docs: add visitor access information` |
 | GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
 
