@@ -2,47 +2,47 @@
 
 ## Student Information
 
-- Name: [Your name]
-- Course and section: [Course and section]
-- Date: [Date]
+- Name: Oury Ly
+- Course and section: CSC350-
+- Date: 09/12/2026
 
 ## Repository Evidence
 
-- Current branch: [Branch name]
-- Personal Homework 2 GitHub URL: [Repository URL]
-- Starting `git status`: [Describe the result]
-- Starting preparation commit ID: [Short ID]
+- Current branch: Branch name
+- Personal Homework 2 GitHub URL: https://github.com/lyourybailo082-hash/CSC350-HW2-lyourybailo082-hash.git
+- Starting `git status`: On branch main, nothing to  commit, working tree clean
+- Starting preparation commit ID: bd125dd
 
 ## Festival Identity
 
-- Festival name: [Original festival name]
-- Location: [City, venue, or campus location]
-- Intended audience: [Audience]
-- Theme: [One-sentence theme]
+- Festival name: Global Culture Festival
+- Location: BMCC Campus, New York City
+- Intended audience: College students and community members
+- Theme: A celebration that brings people together through culture, music, food, and community.
 
 ## Prediction Before the First Commit
 
 1. Where does the saved change currently live?
 
-   [Your answer]
+   In the working directory(working tree)
 
 2. Has it been staged or committed?
 
-   [Your answer]
+  No, it has not been staged or committed yet
 
 ## Arrival Information
 
-- Transit or parking: [One specific instruction]
-- Entrance or meeting location: [One specific location]
+- Transit or parking: Take the subway or bus to the BMCC Campus
+- Entrance or meeting location: Meet at the main entrance of the BMCC Campus.
 
 ## Accessibility Information
 
-1. [Specific accessibility provision 1]
-2. [Specific accessibility provision 2]
+1. Wheelchair-accessible entrances and elevators are available.
+2. accessible seating will be available for visitors who need it.
 
 ## Visitor Reminder
 
-[One concise safety or visitor reminder]
+Please respect other visitors and follow Campus Safety rules.
 
 ## GitHub Verification
 
