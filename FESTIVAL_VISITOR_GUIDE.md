@@ -46,7 +46,7 @@ Please respect other visitors and follow Campus Safety rules.
 
 ## GitHub Verification
 
-[Replace this line on GitHub—not in VS Code]
+GitHub verification completed by lyourybailo082-hash
 
 ## Commit Evidence
 
