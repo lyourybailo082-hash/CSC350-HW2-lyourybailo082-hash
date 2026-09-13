@@ -55,7 +55,7 @@ GitHub verification completed by lyourybailo082-hash
 | Personalized guide | 5ffc8e2 | `docs: personalize festival visitor guide` |
 | Visitor access information |  0372618 | `docs: add visitor access information` |
 | GitHub verification | 2cc102d | `docs: verify independent homework on GitHub` |
-| Final reflection | [ID] | `docs: complete independent Git reflection` |
+| Final reflection | [09f606d] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
