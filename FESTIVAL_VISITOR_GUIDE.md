@@ -3,7 +3,7 @@
 ## Student Information
 
 - Name: Oury Ly
-- Course and section: CSC350-
+- Course and section: CSC350-1300
 - Date: 09/12/2026
 
 ## Repository Evidence
@@ -46,36 +46,37 @@ Please respect other visitors and follow Campus Safety rules.
 
 ## GitHub Verification
 
-Verified on GitHub by Oury Ly.
+[Replace this line on GitHub—not in VS Code]
 
 ## Commit Evidence
 
 | Checkpoint | Short commit ID | Required message |
 |---|---|---|
 | Personalized guide | 5ffc8e2 | `docs: personalize festival visitor guide` |
-| Visitor access information | 0372618 | `docs: add visitor access information` |
-| GitHub verification | [ID] | `docs: verify independent homework on GitHub` |
+| Visitor access information |  0372618 | `docs: add visitor access information` |
+| GitHub verification | 2cc102d | `docs: verify independent homework on GitHub` |
 | Final reflection | [ID] | `docs: complete independent Git reflection` |
 
 ## Individual Reflection
 
 1. What is the difference between saving a file and committing it?
 
-   [Your answer]
+   Saving a file only changes the working copy in the editor. A commit records the staged snapshot in the Git repository history.
 
 2. What is the difference between `git diff` and `git diff --staged`?
 
-   [Your answer]
+   `git diff` shows unstaged changes between the working tree and the index. `git diff --staged` shows staged changes between the index and the last commit.
 
 3. Why did the GitHub verification sentence not appear locally before `git pull`?
 
-   [Your answer]
+   The sentence was created in the GitHub web editor, so GitHub created a remote commit that the local repository had not fetched yet. `git pull` brought that remote commit into the local branch.
 
 4. What did `-u` accomplish in `git push -u origin main`?
 
-   [Your answer]
+   `-u` set the upstream tracking relationship for the local `main` branch to `origin/main`. After that, `git pull` and `git push` could use the branch’s remote automatically.
 
 5. What evidence proves that the local and GitHub repositories are synchronized at the end?
 
-   [Your answer]
+   `git status` shows a clean working tree and `git log` on the local branch matches the GitHub branch history. The final local `main` and `origin/main` have the same newest commit ID.
 
+ 
